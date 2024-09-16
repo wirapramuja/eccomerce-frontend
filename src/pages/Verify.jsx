@@ -42,7 +42,7 @@ const Verify = () => {
   useEffect(() => {
     verifyPayment();
   }, [token]);
-  return <div></div>;
+  return <div>1</div>;
 };
 
 export default Verify;
